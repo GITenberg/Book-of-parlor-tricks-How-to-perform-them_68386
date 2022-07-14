@@ -1,0 +1,40 @@
+_repo: Book-of-parlor-tricks-How-to-perform-them_68386
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-06-23'
+identifiers:
+  gutenberg: '68386'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:622842
+pgterms:marc905: 20220325192850anonymous
+pgterms:marc906: '1895'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :A. B. Courtney,1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Multum in parvo library, vol. 2, no. 16, April, 1895
+subjects:
+- !lcsh 'Tricks'
+- !lcc 'GV'
+- !lcsh 'Magic tricks'
+- GITenberg
+tableOfContents: The diviner -- To walk upon a hot iron bar -- The restored ribbon
+  -- Interesting problems -- How to drop a tumbler on the floor without breaking it
+  -- Magic money -- Sorcery -- Odd or even -- To discover card by weight -- How money
+  is saved -- Eatable candle-ends -- The wonderful hat -- The invisible coin -- The
+  wizard skeleton -- Magic writing -- The Columbus egg trick -- The ring and the handerchief
+  -- The smashed watch -- The magic stick.
+title: 'Book of parlor tricks: How to perform them'
+url: http://www.gutenberg.org/ebooks/68386
